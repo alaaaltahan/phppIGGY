@@ -1,0 +1,18 @@
+{
+    "name": "alaa/phpp-iggy",
+    "description": "a new application for tracking expenses",
+    "type": "project",
+    "authors": [
+        {
+            "name": "alaa ahmad altahan",
+            "email": "alaath777@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "Framework\\": "src/Framework",
+            "App\\": "src/App"
+        }
+    }
+}
